@@ -63,13 +63,12 @@ Comprehensive NLP project combining:
 - Intelligent Chatbot System
 - AI Text Generation Tools
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnezzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnezzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gentaArnezzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentaArnezzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
 
 </div>
 
