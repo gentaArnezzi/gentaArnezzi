@@ -43,25 +43,22 @@ Lately I’m focused on:
 
 ---
 
-## 🚀 What I’m Building
+## 🌍 Flagship Project — Taman Kehati Portal (Kementerian Lingkungan Hidup)
 
-### 1) **Taman Kehati Portal** — national biodiversity system
-**Stack:** FastAPI • PostgreSQL/**PostGIS** • Next.js 15 • shadcn/ui • Mapbox  
-**Highlights:** multi-role RBAC, park geometry (MultiPolygon) + centroids, dashboards, media library, AI-assisted search.
+**National biodiversity system** for Indonesia’s Biodiversity Parks (Taman Kehati).
 
-### 2) **UMKM-Influencer SaaS**
-**Stack:** Next.js • Tailwind + shadcn/ui • Supabase • WhatsApp/Instagram APIs  
-**Highlights:** campaign planner, content calendar, creator matching, subscriptions.
+**Stack:** FastAPI • PostgreSQL/**PostGIS** • Next.js 15 • shadcn/ui • Mapbox/OSM  
+**Focus:** park geometries (MultiPolygon) & centroids, flora/fauna catalogs, RBAC, media library, dashboards, and AI-assisted search.
 
-### 3) **Financial Transactions ETL + Fraud Dashboard**
-**Stack:** Python ETL • PostgreSQL • Rules Engine • Tableau/Next.js dashboard  
-**Highlights:** burst/activity patterns, high-amount rules, crypto-merchant flagging, live monitoring.
+**Highlights**
+- Multi-role **RBAC** (KLH HQ, regional admins, rangers/volunteers, public).
+- **Geospatial** layers & queries (GIST indexes, topology, tiles).
+- **Clean APIs** (Pydantic schemas, versioned OpenAPI), **Postgres-first** data modeling.
+- **ETL/ELT** for park data ingestion + quality checks.
+- **CI/CD** with GitHub Actions, environment-based secrets.
 
-### 4) **NLP for Bursa Indonesia**
-**Stack:** **IndoBERT + LSTM**, Pandas, HF pipelines  
-**Highlights:** sentiment pipeline for ID text, market events alignment, feature ablations.
+> Mission: a reliable, map-first portal that makes Indonesia’s biodiversity data discoverable and useful.
 
-> Repos akan dipublish bertahap; minta akses/preview? **Ping me on LinkedIn.**
 
 ---
 
@@ -71,15 +68,6 @@ Lately I’m focused on:
 - **Clean APIs** (FastAPI + Pydantic schemas, versioning, OpenAPI).
 - **CI/CD** by default (lint, tests, build, deploy, notifications).
 - **Telemetry** (logs/metrics/traces) & **docs** (PRDs, ERDs, runbooks).
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gentaArnezzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentaArnezzi&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
-</div>
 
 ---
 
